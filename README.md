@@ -1,4 +1,4 @@
-# browser_use_ai_demo - 一个简单的例子
+# browser_use_ai_demo
 
 1. python3 and uv package manager
 2. AI API KEY， Goolge、OpenAI、DeepSeek etc
